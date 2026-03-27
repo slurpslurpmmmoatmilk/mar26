@@ -110,6 +110,20 @@ section > img {
 		max-width: 500px;
 }
 	
+table {
+	border: 1px solid black;
+}
+
+caption {
+	display: none;
+}
+
+thead {
+	color: white;
+	background-color: #cccccc;
+	text-align: left;
+}
+
 
 footer {
 	background-image: linear-gradient(to bottom, blue, navy);
